@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+
+# Local database/config
+*.sql.bak
+
+# Raw/private case data
+data/raw/*
+!data/raw/.gitkeep
+
+# Generated output
+output/
+*.log
+
+# IDE
+.vscode/
+.idea/
