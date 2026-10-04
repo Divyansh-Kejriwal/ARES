@@ -11,3 +11,7 @@ GroupDynamics VARCHAR(50) NOT NULL,
 SubjectCategory VARCHAR(100) NOT NULL,
 Subsex VARCHAR(3) NOT NULL,
 SubAge INT);
+
+
+
+
