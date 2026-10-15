@@ -6,10 +6,6 @@ __pycache__/
 # Local database/config
 *.sql.bak
 
-# Raw/private case data
-data/raw/*
-!data/raw/.gitkeep
-
 # Generated output
 output/
 *.log
